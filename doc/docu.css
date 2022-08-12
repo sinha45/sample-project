@@ -1,0 +1,21 @@
+.global-community{
+    width: 50%;
+    height: 100vh;  
+    text-align: justify;
+    background-color: aqua;
+    padding: auto;
+    margin: auto; 
+    border-radius: 20px;
+   
+  
+ }
+ .global-community p{
+    padding: 20px;
+    margin: 20px;
+    
+ }
+ .global-community h1{
+     text-align: center;
+     padding: 5px;
+     margin: 5px;
+ }

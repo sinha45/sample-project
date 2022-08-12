@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.mission-color{
+    color: DeepSkyBlue;
+}
+section{
+    display: flex;
+}
+.col-border{
+    border-left: 3px solid;
+    padding-left: 5px;
+    border-image: 
+    linear-gradient(to bottom, red,rgba(0, 0, 0, 0)) 1 100%;
+   
+   
+}
+.half-width{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+   width: 80%;
+   
+}
+.link-button{
+    text-decoration: none;
+    color: cornsilk;
+    background-image: linear-gradient(DodgerBlue, DarkCyan);
+    font-weight: 400;
+    padding: 10px  40px;
+    border-radius: 8px;
+}
+.my-mission{
+    text-align: center;
+    font-weight: 900;
+}
+.color-twinty{
+    color: indianred;
+}
+.flexible{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.holding-container{
+    width: 100%;
+   display: flex;
+   
+}
+.mission{
+   flex: 1;
+   background-color: #08F3FA;
+    position: relative;
+   margin: 30px  10px;
+   width: 30px;
+   border-radius: 20px;
+   margin-right: 40px;
+   margin-left: 45px;
+
+
+
+  
+}
+.vision{
+    flex: 1;
+    background-color: lightsteelblue;
+    position: relative;
+    margin: 30px 10px ;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 45px;
+  
+  
+ 
+}
+.goals{
+    flex: 1;
+    background-color: rgb(240, 156, 168);
+    position: relative;
+    margin: 30px 10px;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-left: 45px;
+  
+
+}
+.images-size img{
+    width: 40%;
+    padding-top: 20px;
+    margin-left: 10%;
+ }
+ .left-side{
+     margin-left: 5%;
+ }
+ .coding-image img{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 30%;
+    
+}
+ 
+ .coding-style{
+
+    width: 60%;
+    padding-top: 2%;
+    padding-right: 10%;
+ }
+ .global-community{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 10%;
+ }
+ .global-community img{
+    width: 70%;
+    padding-top: 5%;
+    padding-right: 35%;
+ }
+ 
+ .footer-style{
+     width: 300%;
+     margin-left: 70%;
+     background-color: rgba(65, 197, 200, 0.881);
+     border-radius: 25px;
+     text-align: center;
+     font-size: 400;
+ }
+ .style-tw{
+     color: rgb(252, 252, 252);
+}
+.para-graph{
+    padding-top: 10%;
+}
+
+ 
